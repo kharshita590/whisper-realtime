@@ -15,3 +15,10 @@ Run the server by executing:
 
 ```bash
 python fastapiii_api.py
+
+## Test the WebSocket Connection
+
+In another terminal window, run the test client to connect to the WebSocket endpoint:
+
+```bash
+python test_ws.py
