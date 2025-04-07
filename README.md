@@ -1,6 +1,4 @@
-# whisper-realtime
 
-This project demonstrates a real-time streaming setup using FastAPI, WebSocket, and Whisper for online ASR. The server is implemented in `fastapiii_api.py`, and a test client is provided in the `test_ws.py` file to simulate WebSocket interactions.
 
 ## Installation
 
